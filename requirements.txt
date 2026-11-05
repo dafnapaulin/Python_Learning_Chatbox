@@ -1,0 +1,5 @@
+streamlit>=1.40
+ollama>=0.4
+python-pptx>=1.0
+pypdf>=5.0
+python-docx>=1.1
